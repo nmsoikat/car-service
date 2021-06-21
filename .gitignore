@@ -1,0 +1,7 @@
+./client/node_modules/
+./client/.firebase/
+./client/.git/
+
+./server/node_modules/
+./server/.git/
+./server/.env/
